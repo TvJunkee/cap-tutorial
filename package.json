@@ -10,10 +10,13 @@
     "express": "^4"
   },
   "devDependencies": {
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.0.4"
   },
   "scripts": {
     "start": "cds run"
+  },
+  "engines": {
+    "node": "^16.15"
   },
   "eslintConfig": {
     "extends": "eslint:recommended",
